@@ -36,7 +36,7 @@
 T.B.C
 - ゆとりなので [GUIのエディタ](https://openapi.tools/#gui-editors) で書く
 
-## [OAS2.0]を使ってモックサーバを立てる
+## [OAS2.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md) を使ってモックサーバを立てる
 
 T.B.C
 - [mock](https://openapi.tools/#mock) からよさそうなの探しましょう
